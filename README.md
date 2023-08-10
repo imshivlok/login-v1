@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/login-v1?style=social)
   ![Progress](https://img.shields.io/badge/complete-50C878)<br>
   
-  <img src="/images/favicon.ico" alt="logo" title="logo" width="20%">
+  <img src="/images/logo.png" alt="logo" title="logo" width="20%">
 
  <h2>Login Page</h2>
   A simple, clean, and minimal user login screen.<br>Built using HTML/CSS.<br><br>
